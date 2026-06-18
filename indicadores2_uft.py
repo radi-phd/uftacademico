@@ -559,8 +559,9 @@ st.markdown(
         Indicadores Acadêmicos - PROGRAD
     </div>
     <div style="font-size:0.88rem;color:rgba(255,255,255,0.72);margin-top:4px;">
-        Universidade Federal do Tocantins · Evasão · Retenção · Sucesso
+        Universidade Federal do Tocantins  
     </div>
+    · Evasão · Retenção · Sucesso ·
 </div>
 </div>
 """,
