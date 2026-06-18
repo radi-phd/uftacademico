@@ -561,10 +561,7 @@ st.markdown(
     <div style="font-size:0.88rem;color:rgba(255,255,255,0.72);margin-top:4px;">
         Universidade Federal do Tocantins  
     </div>
-    <div style="font-size:0.88rem;color:rgba(255,255,255,0.72);margin-top:4px;">
-    · Evasão · Retenção · Sucesso ·
-</div>
-</div>
+   </div>
 """,
     unsafe_allow_html=True
 )
