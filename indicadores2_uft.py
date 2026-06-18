@@ -556,7 +556,7 @@ st.markdown(
 <div style="font-size: 2.8rem;">📊</div>
 <div style="flex: 1;">
     <div style="font-family:'Lora',serif;font-size:1.6rem;font-weight:700;color:white;">
-        Indicadores Acadêmicos Institucionais
+        Indicadores Acadêmicos PROGRAD
     </div>
     <div style="font-size:0.88rem;color:rgba(255,255,255,0.72);margin-top:4px;">
         Universidade Federal do Tocantins · Evasão · Retenção · Sucesso
