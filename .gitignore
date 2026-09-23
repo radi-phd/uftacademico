@@ -1,0 +1,20 @@
+# ---------------------------------------------------------
+# Python
+# ---------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# ---------------------------------------------------------
+# DADOS DE ALUNOS (LGPD) — NUNCA ENVIAR AO GITHUB
+# Contêm matrícula, etnia, data de nascimento e, no
+# "_completo" e na "Copia", NOME e CPF.
+# ---------------------------------------------------------
+*.ods
+*.xlsx
+*.csv
+.~lock.*
+auditoria_base_*.json
