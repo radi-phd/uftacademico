@@ -18,3 +18,14 @@ __pycache__/
 *.csv
 .~lock.*
 auditoria_base_*.json
+
+# ---------------------------------------------------------
+# Arquivos locais de trabalho (não fazem parte do painel)
+# ---------------------------------------------------------
+.claude/
+gitignore
+
+# Versões de trabalho do painel. Só o indicadores2_uft.py vai para o
+# GitHub: é o arquivo que o Streamlit Cloud executa.
+indicadores*_uft*.py
+!indicadores2_uft.py
